@@ -39,116 +39,116 @@
 	
 	<!-- List width & height for portrait, use code to swap them -->
 	<!--
-	<PaperSize Name="" Category="" DrawingSizeType="2" VisUnitCode="visInches or visMillimeters" units="in or mm" width="" height="" BuiltIn="" />
+	<PaperSize Name="" Category="" DrawingSizeType="2" VisUnitCode="visInches or visMillimeters" Units="in or mm" Width="" Height="" BuiltIn="" />
 	-->
 
 	<!-- Standard -->
-	<PaperSize Name="Letter" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" units="in" width="8.5" height="11" BuiltIn="true" />
-	<PaperSize Name="Folio" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" units="in" width="8.5" height="13" BuiltIn="true" />
-	<PaperSize Name="Legal" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" units="in" width="8.5" height="14" BuiltIn="true" />
-	<PaperSize Name="Ledger" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" units="in" width="11" height="17" BuiltIn="true" />
+	<PaperSize Name="Letter" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="8.5" Height="11" BuiltIn="true" />
+	<PaperSize Name="Folio" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="8.5" Height="13" BuiltIn="true" />
+	<PaperSize Name="Legal" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="8.5" Height="14" BuiltIn="true" />
+	<PaperSize Name="Ledger" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="11" Height="17" BuiltIn="true" />
 	<!-- Not built into Visio -->
-	<PaperSize Name="Half Letter" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" units="in" width="5.5" height="8.5" BuiltIn="false" />
-	<PaperSize Name="Junior Legal" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" units="in" width="5" height="8" BuiltIn="false" />
-	<PaperSize Name="Tabloid" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" units="in" width="11" height="17" BuiltIn="false" />
+	<PaperSize Name="Half Letter" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="5.5" Height="8.5" BuiltIn="false" />
+	<PaperSize Name="Junior Legal" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="5" Height="8" BuiltIn="false" />
+	<PaperSize Name="Tabloid" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="11" Height="17" BuiltIn="false" />
 	
 	<!-- Metric (ISO) -->
-	<PaperSize Name="A5" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="148" height="210" BuiltIn="true" />
-	<PaperSize Name="A4" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="210" height="297" BuiltIn="true" />
-	<PaperSize Name="A3" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="297" height="420" BuiltIn="true" />
-	<PaperSize Name="A2" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="420" height="594" BuiltIn="true" />
-	<PaperSize Name="A1" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="594" height="841" BuiltIn="true" />
-	<PaperSize Name="A0" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="841" height="1189" BuiltIn="true" />
+	<PaperSize Name="A5" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="148" Height="210" BuiltIn="true" />
+	<PaperSize Name="A4" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="210" Height="297" BuiltIn="true" />
+	<PaperSize Name="A3" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="297" Height="420" BuiltIn="true" />
+	<PaperSize Name="A2" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="420" Height="594" BuiltIn="true" />
+	<PaperSize Name="A1" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="594" Height="841" BuiltIn="true" />
+	<PaperSize Name="A0" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="841" Height="1189" BuiltIn="true" />
 	<!-- Not built into Visio -->
-	<PaperSize Name="A6" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="105" height="148" BuiltIn="false" />
-	<PaperSize Name="A7" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="74" height="105" BuiltIn="false" />
-	<PaperSize Name="A8" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="52" height="74" BuiltIn="false" />
-	<PaperSize Name="A9" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="37" height="52" BuiltIn="false" />
-	<PaperSize Name="A10" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" units="mm" width="26" height="37" BuiltIn="false" />
+	<PaperSize Name="A6" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="105" Height="148" BuiltIn="false" />
+	<PaperSize Name="A7" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="74" Height="105" BuiltIn="false" />
+	<PaperSize Name="A8" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="52" Height="74" BuiltIn="false" />
+	<PaperSize Name="A9" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="37" Height="52" BuiltIn="false" />
+	<PaperSize Name="A10" Category="Metric (ISO)" DrawingSizeType="5" VisUnitCode="visMillimeters" Units="mm" Width="26" Height="37" BuiltIn="false" />
 	
 	<!-- ANSI Engineering -->
-	<PaperSize Name="A" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" units="in" width="8.5" height="11" BuiltIn="true" />
-	<PaperSize Name="B" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" units="in" width="11" height="17" BuiltIn="true" />
-	<PaperSize Name="C" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" units="in" width="17" height="22" BuiltIn="true" />
-	<PaperSize Name="D" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" units="in" width="22" height="34" BuiltIn="true" />
-	<PaperSize Name="E" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" units="in" width="34" height="44" BuiltIn="true" />
+	<PaperSize Name="A" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" Units="in" Width="8.5" Height="11" BuiltIn="true" />
+	<PaperSize Name="B" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" Units="in" Width="11" Height="17" BuiltIn="true" />
+	<PaperSize Name="C" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" Units="in" Width="17" Height="22" BuiltIn="true" />
+	<PaperSize Name="D" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" Units="in" Width="22" Height="34" BuiltIn="true" />
+	<PaperSize Name="E" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" Units="in" Width="34" Height="44" BuiltIn="true" />
 	<!-- Not built into Visio -->
-	<PaperSize Name="B+" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" units="in" width="13" height="19" BuiltIn="false" />
-	<PaperSize Name="Super B" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" units="in" width="13" height="19" BuiltIn="false" />
+	<PaperSize Name="B+" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" Units="in" Width="13" Height="19" BuiltIn="false" />
+	<PaperSize Name="Super B" Category="ANSI Engineering" DrawingSizeType="6" VisUnitCode="visInches" Units="in" Width="13" Height="19" BuiltIn="false" />
 	
 	<!-- ANSI Architecure -->
-	<PaperSize Name="9 in. x 12 in." Category="ANSI Architecure"  DrawingSizeType="7" VisUnitCode="visInches" units="in" width="9" height="12" BuiltIn="true" />
-	<PaperSize Name="12 in. x 18 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="12" height="18" BuiltIn="true" />
-	<PaperSize Name="18 in. x 24 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="18" height="24" BuiltIn="true" />
-	<PaperSize Name="24 in. x 36 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="24" height="36" BuiltIn="true" />
-	<PaperSize Name="30 in. x 42 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="30" height="42" BuiltIn="true" />
+	<PaperSize Name="9 in. x 12 in." Category="ANSI Architecure"  DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="9" Height="12" BuiltIn="true" />
+	<PaperSize Name="12 in. x 18 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="12" Height="18" BuiltIn="true" />
+	<PaperSize Name="18 in. x 24 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="18" Height="24" BuiltIn="true" />
+	<PaperSize Name="24 in. x 36 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="24" Height="36" BuiltIn="true" />
+	<PaperSize Name="30 in. x 42 in." Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="30" Height="42" BuiltIn="true" />
 	<!-- Not built into Visio -->
-	<PaperSize Name="Arch A" Category="ANSI Architecure"  DrawingSizeType="7" VisUnitCode="visInches" units="in" width="9" height="12" BuiltIn="false" />
-	<PaperSize Name="Arch B" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="12" height="18" BuiltIn="false" />
-	<PaperSize Name="Arch C" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="18" height="24" BuiltIn="false" />
-	<PaperSize Name="Arch D" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="24" height="36" BuiltIn="false" />
-	<PaperSize Name="Arch E" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="36" height="48" BuiltIn="false" />
-	<PaperSize Name="Arch E1" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" units="in" width="30" height="42" BuiltIn="false" />	
+	<PaperSize Name="Arch A" Category="ANSI Architecure"  DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="9" Height="12" BuiltIn="false" />
+	<PaperSize Name="Arch B" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="12" Height="18" BuiltIn="false" />
+	<PaperSize Name="Arch C" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="18" Height="24" BuiltIn="false" />
+	<PaperSize Name="Arch D" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="24" Height="36" BuiltIn="false" />
+	<PaperSize Name="Arch E" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="36" Height="48" BuiltIn="false" />
+	<PaperSize Name="Arch E1" Category="ANSI Architecure" DrawingSizeType="7" VisUnitCode="visInches" Units="in" Width="30" Height="42" BuiltIn="false" />	
 	
 	<!-- Not built into Visio -->	
 	<!-- ISO B Sizes -->
-	<PaperSize Name="B0" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="1000" height="1414" BuiltIn="false"  />	
-	<PaperSize Name="B1" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="707" height="1000" BuiltIn="false" />	
-	<PaperSize Name="B2" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="500" height="707" BuiltIn="false" />	
-	<PaperSize Name="B3" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="353" height="500" BuiltIn="false" />	
-	<PaperSize Name="B4" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="250" height="353" BuiltIn="false" />	
-	<PaperSize Name="B5" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="176" height="250" BuiltIn="false" />	
-	<PaperSize Name="B6" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="125" height="176" BuiltIn="false" />	
-	<PaperSize Name="B7" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="88" height="125" BuiltIn="false" />	
-	<PaperSize Name="B8" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="62" height="88" BuiltIn="false" />	
-	<PaperSize Name="B9" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="44" height="62" BuiltIn="false" />	
-	<PaperSize Name="B10" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="31" height="44" BuiltIn="false" />	
+	<PaperSize Name="B0" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="1000" Height="1414" BuiltIn="false"  />	
+	<PaperSize Name="B1" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="707" Height="1000" BuiltIn="false" />	
+	<PaperSize Name="B2" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="500" Height="707" BuiltIn="false" />	
+	<PaperSize Name="B3" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="353" Height="500" BuiltIn="false" />	
+	<PaperSize Name="B4" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="250" Height="353" BuiltIn="false" />	
+	<PaperSize Name="B5" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="176" Height="250" BuiltIn="false" />	
+	<PaperSize Name="B6" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="125" Height="176" BuiltIn="false" />	
+	<PaperSize Name="B7" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="88" Height="125" BuiltIn="false" />	
+	<PaperSize Name="B8" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="62" Height="88" BuiltIn="false" />	
+	<PaperSize Name="B9" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="44" Height="62" BuiltIn="false" />	
+	<PaperSize Name="B10" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="31" Height="44" BuiltIn="false" />	
 
 	<!-- Not built into Visio -->	
 	<!-- ISO C Sizes -->
-	<PaperSize Name="C0" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="917" height="1297" BuiltIn="false"  />	
-	<PaperSize Name="C1" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="648" height="917" BuiltIn="false" />	
-	<PaperSize Name="C2" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="458" height="648" BuiltIn="false" />	
-	<PaperSize Name="C3" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="324" height="458" BuiltIn="false" />	
-	<PaperSize Name="C4" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="229" height="324" BuiltIn="false" />	
-	<PaperSize Name="C5" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="162" height="229" BuiltIn="false" />	
-	<PaperSize Name="C6" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="114" height="162" BuiltIn="false" />	
-	<PaperSize Name="C7" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="81" height="114" BuiltIn="false" />	
-	<PaperSize Name="C8" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="57" height="81" BuiltIn="false" />	
-	<PaperSize Name="C9" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="40" height="47" BuiltIn="false" />	
-	<PaperSize Name="C10" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" units="mm" width="28" height="28" BuiltIn="false" />	
+	<PaperSize Name="C0" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="917" Height="1297" BuiltIn="false"  />	
+	<PaperSize Name="C1" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="648" Height="917" BuiltIn="false" />	
+	<PaperSize Name="C2" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="458" Height="648" BuiltIn="false" />	
+	<PaperSize Name="C3" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="324" Height="458" BuiltIn="false" />	
+	<PaperSize Name="C4" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="229" Height="324" BuiltIn="false" />	
+	<PaperSize Name="C5" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="162" Height="229" BuiltIn="false" />	
+	<PaperSize Name="C6" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="114" Height="162" BuiltIn="false" />	
+	<PaperSize Name="C7" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="81" Height="114" BuiltIn="false" />	
+	<PaperSize Name="C8" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="57" Height="81" BuiltIn="false" />	
+	<PaperSize Name="C9" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="40" Height="47" BuiltIn="false" />	
+	<PaperSize Name="C10" Category="ISO B Sizes"  DrawingSizeType="7" VisUnitCode="visMillimeters" Units="mm" Width="28" Height="28" BuiltIn="false" />	
 
 	<!-- British Imperial Paper Sizes -->
 	<!-- Not built into Visio -->
-	<PaperSize Name="Albert" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="4" height="6" BuiltIn="false" />
-	<PaperSize Name="Duchess" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="4.5" height="6" BuiltIn="false" />
-	<PaperSize Name="Duke" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="5.5" height="7" BuiltIn="false" />
-	<PaperSize Name="Foolscap Quarto" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="6.5" height="8" BuiltIn="false" />	
-	<PaperSize Name="Foolscap Folio" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="8" height="13" BuiltIn="false" />
-	<PaperSize Name="Small Post Octavo" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="4.5" height="7" BuiltIn="false" />
-	<PaperSize Name="Small Post Quarto" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="7" height="9" BuiltIn="false" />
-	<PaperSize Name="Large Post Octavo" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="5" height="8" BuiltIn="false" />
-	<PaperSize Name="Large Post Quarto" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" units="in" width="10" height="10" BuiltIn="false" />
+	<PaperSize Name="Albert" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="4" Height="6" BuiltIn="false" />
+	<PaperSize Name="Duchess" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="4.5" Height="6" BuiltIn="false" />
+	<PaperSize Name="Duke" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="5.5" Height="7" BuiltIn="false" />
+	<PaperSize Name="Foolscap Quarto" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="6.5" Height="8" BuiltIn="false" />	
+	<PaperSize Name="Foolscap Folio" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="8" Height="13" BuiltIn="false" />
+	<PaperSize Name="Small Post Octavo" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="4.5" Height="7" BuiltIn="false" />
+	<PaperSize Name="Small Post Quarto" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="7" Height="9" BuiltIn="false" />
+	<PaperSize Name="Large Post Octavo" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="5" Height="8" BuiltIn="false" />
+	<PaperSize Name="Large Post Quarto" Category="British Imperial" DrawingSizeType="3" VisUnitCode="visInches" Units="in" Width="10" Height="10" BuiltIn="false" />
 	
 	<!-- JIS -->
 	<!-- Not built into Visio -->	
-	<PaperSize Name="0" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="1030" height="1456" BuiltIn="false" />
-	<PaperSize Name="1" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="728" height="1030" BuiltIn="false" />
-	<PaperSize Name="2" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="515" height="728" BuiltIn="false" />
-	<PaperSize Name="3" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="364" height="515" BuiltIn="false" />
-	<PaperSize Name="4" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="257" height="364" BuiltIn="false" />
-	<PaperSize Name="4 Shiroku ban" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="264" height="379" BuiltIn="false" />
-	<PaperSize Name="4 Kiku" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="227" height="306" BuiltIn="false" />
-	<PaperSize Name="5" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="182" height="257" BuiltIn="false" />
-	<PaperSize Name="5 Shiroku ban" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="189" height="262" BuiltIn="false" />
-	<PaperSize Name="5 Kiku" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="151" height="227" BuiltIn="false" />	
-	<PaperSize Name="6" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="128" height="182" BuiltIn="false" />
-	<PaperSize Name="6 Shiroku ban" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="127" height="188" BuiltIn="false" />	
-	<PaperSize Name="7" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="91" height="128" BuiltIn="false" />
-	<PaperSize Name="8" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="64" height="91" BuiltIn="false" />
-	<PaperSize Name="9" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="45" height="64" BuiltIn="false" />
-	<PaperSize Name="10" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="32" height="45" BuiltIn="false" />
-	<PaperSize Name="11" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="22" height="32" BuiltIn="false" />
-	<PaperSize Name="12" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" units="mm" width="16" height="22" BuiltIn="false" />
+	<PaperSize Name="0" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="1030" Height="1456" BuiltIn="false" />
+	<PaperSize Name="1" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="728" Height="1030" BuiltIn="false" />
+	<PaperSize Name="2" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="515" Height="728" BuiltIn="false" />
+	<PaperSize Name="3" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="364" Height="515" BuiltIn="false" />
+	<PaperSize Name="4" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="257" Height="364" BuiltIn="false" />
+	<PaperSize Name="4 Shiroku ban" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="264" Height="379" BuiltIn="false" />
+	<PaperSize Name="4 Kiku" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="227" Height="306" BuiltIn="false" />
+	<PaperSize Name="5" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="182" Height="257" BuiltIn="false" />
+	<PaperSize Name="5 Shiroku ban" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="189" Height="262" BuiltIn="false" />
+	<PaperSize Name="5 Kiku" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="151" Height="227" BuiltIn="false" />	
+	<PaperSize Name="6" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="128" Height="182" BuiltIn="false" />
+	<PaperSize Name="6 Shiroku ban" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="127" Height="188" BuiltIn="false" />	
+	<PaperSize Name="7" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="91" Height="128" BuiltIn="false" />
+	<PaperSize Name="8" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="64" Height="91" BuiltIn="false" />
+	<PaperSize Name="9" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="45" Height="64" BuiltIn="false" />
+	<PaperSize Name="10" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="32" Height="45" BuiltIn="false" />
+	<PaperSize Name="11" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="22" Height="32" BuiltIn="false" />
+	<PaperSize Name="12" Category="JIS" DrawingSizeType="3" VisUnitCode="visMillimeters" Units="mm" Width="16" Height="22" BuiltIn="false" />
 	
 </PaperSizes>
