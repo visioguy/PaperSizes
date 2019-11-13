@@ -1,6 +1,7 @@
 # PaperSizes
-**PaperSizes** contains structured data relating to common paper sizes, such as A3, A4, Letter, 
-Tabloid, Legal, etc.  
+PaperSizes contains structured data relating to common paper sizes, such as A3, A4, Letter, 
+Tabloid, Legal, etc. The size definitions include numerical sizes, units of measurement, categories, along
+with some Visio-specific information that you may not need for your purposes.
   
 For example:  
   
