@@ -15,6 +15,42 @@ in any application that needs to have pick lists for paper sizes.
 The data is not inherently Visio-specific, but there are a few attributes that are Visio-specific, 
 such as **DrawingSizeType**, **VisUnitCode** and **BuiltIn**. If you're working outside of Visio, you could ignore or remove these elements.
 
+## Sample Code
+Here's a quick sample of how the paper size data is structured:  
+```xml
+<!-- XML Paper Sizes -->
+<PaperSizes>
+	<!-- Standard -->
+	<PaperSize Name="Letter" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="8.5" Height="11" BuiltIn="true" />
+	<PaperSize Name="Folio" Category="Standard" DrawingSizeType="2" VisUnitCode="visInches" Units="in" Width="8.5" Height="13" BuiltIn="true" />
+```
+```js
+// JSON Paper Sizes:
+{
+  "PaperSizes": {
+    "PaperSize": [
+      {
+        "name": "Letter",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "8.5",
+        "height": "11",
+        "builtIn": "true"
+      },
+      {
+        "name": "Folio",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "8.5",
+        "height": "13",
+        "builtIn": "true"
+      },
+```
+
 ## Structure
 Whether you use the XML or the JSON, the structure is essentially as below. The italicized items are Visio-specific:
 
