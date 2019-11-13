@@ -1,6 +1,10 @@
 # PaperSizes
 **PaperSizes** contains structured data relating to common paper sizes, such as A3, A4, Letter, 
-Tabloid, Legal, etc.
+Tabloid, Legal, etc.  
+  
+For example:  
+  
+![Sample Paper Sizes](https://raw.githubusercontent.com/visioguy/PaperSizes/master/img/paper-sizes-sample.png)
 
 The need to essentially recreate Visio's drop-down lists of page sizes has come up in a few of 
 the projects I've worked on, so I decided to create my own list.
@@ -11,7 +15,7 @@ in any application that needs to have pick lists for paper sizes.
 The data is not inherently Visio-specific, but there are a few attributes that are Visio-specific, 
 such as **DrawingSizeType**, **VisUnitCode** and **BuiltIn**. If you're working outside of Visio, you could ignore or remove these elements.
 
-#Structure
+## Structure
 Whether you use the XML or the JSON, the structure is essentially as below. The italicized items are Visio-specific:
 
 * PaperSizes
