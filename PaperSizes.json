@@ -1,0 +1,856 @@
+{
+  "PaperSizes": {
+    "PaperSize": [
+      {
+        "name": "Letter",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "8.5",
+        "height": "11",
+        "builtIn": "true"
+      },
+      {
+        "name": "Folio",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "8.5",
+        "height": "13",
+        "builtIn": "true"
+      },
+      {
+        "name": "Legal",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "8.5",
+        "height": "14",
+        "builtIn": "true"
+      },
+      {
+        "name": "Ledger",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "11",
+        "height": "17",
+        "builtIn": "true"
+      },
+      {
+        "name": "Half Letter",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "5.5",
+        "height": "8.5",
+        "builtIn": "false"
+      },
+      {
+        "name": "Junior Legal",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "5",
+        "height": "8",
+        "builtIn": "false"
+      },
+      {
+        "name": "Tabloid",
+        "category": "Standard",
+        "drawingSizeType": "2",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "11",
+        "height": "17",
+        "builtIn": "false"
+      },
+      {
+        "name": "A5",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "148",
+        "height": "210",
+        "builtIn": "true"
+      },
+      {
+        "name": "A4",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "210",
+        "height": "297",
+        "builtIn": "true"
+      },
+      {
+        "name": "A3",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "297",
+        "height": "420",
+        "builtIn": "true"
+      },
+      {
+        "name": "A2",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "420",
+        "height": "594",
+        "builtIn": "true"
+      },
+      {
+        "name": "A1",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "594",
+        "height": "841",
+        "builtIn": "true"
+      },
+      {
+        "name": "A0",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "841",
+        "height": "1189",
+        "builtIn": "true"
+      },
+      {
+        "name": "A6",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "105",
+        "height": "148",
+        "builtIn": "false"
+      },
+      {
+        "name": "A7",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "74",
+        "height": "105",
+        "builtIn": "false"
+      },
+      {
+        "name": "A8",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "52",
+        "height": "74",
+        "builtIn": "false"
+      },
+      {
+        "name": "A9",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "37",
+        "height": "52",
+        "builtIn": "false"
+      },
+      {
+        "name": "A10",
+        "category": "Metric (ISO)",
+        "drawingSizeType": "5",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "26",
+        "height": "37",
+        "builtIn": "false"
+      },
+      {
+        "name": "A",
+        "category": "ANSI Engineering",
+        "drawingSizeType": "6",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "8.5",
+        "height": "11",
+        "builtIn": "true"
+      },
+      {
+        "name": "B",
+        "category": "ANSI Engineering",
+        "drawingSizeType": "6",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "11",
+        "height": "17",
+        "builtIn": "true"
+      },
+      {
+        "name": "C",
+        "category": "ANSI Engineering",
+        "drawingSizeType": "6",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "17",
+        "height": "22",
+        "builtIn": "true"
+      },
+      {
+        "name": "D",
+        "category": "ANSI Engineering",
+        "drawingSizeType": "6",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "22",
+        "height": "34",
+        "builtIn": "true"
+      },
+      {
+        "name": "E",
+        "category": "ANSI Engineering",
+        "drawingSizeType": "6",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "34",
+        "height": "44",
+        "builtIn": "true"
+      },
+      {
+        "name": "B+",
+        "category": "ANSI Engineering",
+        "drawingSizeType": "6",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "13",
+        "height": "19",
+        "builtIn": "false"
+      },
+      {
+        "name": "Super B",
+        "category": "ANSI Engineering",
+        "drawingSizeType": "6",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "13",
+        "height": "19",
+        "builtIn": "false"
+      },
+      {
+        "name": "9 in. x 12 in.",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "9",
+        "height": "12",
+        "builtIn": "true"
+      },
+      {
+        "name": "12 in. x 18 in.",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "12",
+        "height": "18",
+        "builtIn": "true"
+      },
+      {
+        "name": "18 in. x 24 in.",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "18",
+        "height": "24",
+        "builtIn": "true"
+      },
+      {
+        "name": "24 in. x 36 in.",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "24",
+        "height": "36",
+        "builtIn": "true"
+      },
+      {
+        "name": "30 in. x 42 in.",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "30",
+        "height": "42",
+        "builtIn": "true"
+      },
+      {
+        "name": "Arch A",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "9",
+        "height": "12",
+        "builtIn": "false"
+      },
+      {
+        "name": "Arch B",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "12",
+        "height": "18",
+        "builtIn": "false"
+      },
+      {
+        "name": "Arch C",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "18",
+        "height": "24",
+        "builtIn": "false"
+      },
+      {
+        "name": "Arch D",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "24",
+        "height": "36",
+        "builtIn": "false"
+      },
+      {
+        "name": "Arch E",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "36",
+        "height": "48",
+        "builtIn": "false"
+      },
+      {
+        "name": "Arch E1",
+        "category": "ANSI Architecure",
+        "drawingSizeType": "7",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "30",
+        "height": "42",
+        "builtIn": "false"
+      },
+      {
+        "name": "B0",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "1000",
+        "height": "1414",
+        "builtIn": "false"
+      },
+      {
+        "name": "B1",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "707",
+        "height": "1000",
+        "builtIn": "false"
+      },
+      {
+        "name": "B2",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "500",
+        "height": "707",
+        "builtIn": "false"
+      },
+      {
+        "name": "B3",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "353",
+        "height": "500",
+        "builtIn": "false"
+      },
+      {
+        "name": "B4",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "250",
+        "height": "353",
+        "builtIn": "false"
+      },
+      {
+        "name": "B5",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "176",
+        "height": "250",
+        "builtIn": "false"
+      },
+      {
+        "name": "B6",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "125",
+        "height": "176",
+        "builtIn": "false"
+      },
+      {
+        "name": "B7",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "88",
+        "height": "125",
+        "builtIn": "false"
+      },
+      {
+        "name": "B8",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "62",
+        "height": "88",
+        "builtIn": "false"
+      },
+      {
+        "name": "B9",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "44",
+        "height": "62",
+        "builtIn": "false"
+      },
+      {
+        "name": "B10",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "31",
+        "height": "44",
+        "builtIn": "false"
+      },
+      {
+        "name": "C0",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "917",
+        "height": "1297",
+        "builtIn": "false"
+      },
+      {
+        "name": "C1",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "648",
+        "height": "917",
+        "builtIn": "false"
+      },
+      {
+        "name": "C2",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "458",
+        "height": "648",
+        "builtIn": "false"
+      },
+      {
+        "name": "C3",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "324",
+        "height": "458",
+        "builtIn": "false"
+      },
+      {
+        "name": "C4",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "229",
+        "height": "324",
+        "builtIn": "false"
+      },
+      {
+        "name": "C5",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "162",
+        "height": "229",
+        "builtIn": "false"
+      },
+      {
+        "name": "C6",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "114",
+        "height": "162",
+        "builtIn": "false"
+      },
+      {
+        "name": "C7",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "81",
+        "height": "114",
+        "builtIn": "false"
+      },
+      {
+        "name": "C8",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "57",
+        "height": "81",
+        "builtIn": "false"
+      },
+      {
+        "name": "C9",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "40",
+        "height": "47",
+        "builtIn": "false"
+      },
+      {
+        "name": "C10",
+        "category": "ISO B Sizes",
+        "drawingSizeType": "7",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "28",
+        "height": "28",
+        "builtIn": "false"
+      },
+      {
+        "name": "Albert",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "4",
+        "height": "6",
+        "builtIn": "false"
+      },
+      {
+        "name": "Duchess",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "4.5",
+        "height": "6",
+        "builtIn": "false"
+      },
+      {
+        "name": "Duke",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "5.5",
+        "height": "7",
+        "builtIn": "false"
+      },
+      {
+        "name": "Foolscap Quarto",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "6.5",
+        "height": "8",
+        "builtIn": "false"
+      },
+      {
+        "name": "Foolscap Folio",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "8",
+        "height": "13",
+        "builtIn": "false"
+      },
+      {
+        "name": "Small Post Octavo",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "4.5",
+        "height": "7",
+        "builtIn": "false"
+      },
+      {
+        "name": "Small Post Quarto",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "7",
+        "height": "9",
+        "builtIn": "false"
+      },
+      {
+        "name": "Large Post Octavo",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "5",
+        "height": "8",
+        "builtIn": "false"
+      },
+      {
+        "name": "Large Post Quarto",
+        "category": "British Imperial",
+        "drawingSizeType": "3",
+        "visUnitCode": "visInches",
+        "units": "in",
+        "width": "10",
+        "height": "10",
+        "builtIn": "false"
+      },
+      {
+        "name": "0",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "1030",
+        "height": "1456",
+        "builtIn": "false"
+      },
+      {
+        "name": "1",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "728",
+        "height": "1030",
+        "builtIn": "false"
+      },
+      {
+        "name": "2",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "515",
+        "height": "728",
+        "builtIn": "false"
+      },
+      {
+        "name": "3",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "364",
+        "height": "515",
+        "builtIn": "false"
+      },
+      {
+        "name": "4",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "257",
+        "height": "364",
+        "builtIn": "false"
+      },
+      {
+        "name": "4 Shiroku ban",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "264",
+        "height": "379",
+        "builtIn": "false"
+      },
+      {
+        "name": "4 Kiku",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "227",
+        "height": "306",
+        "builtIn": "false"
+      },
+      {
+        "name": "5",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "182",
+        "height": "257",
+        "builtIn": "false"
+      },
+      {
+        "name": "5 Shiroku ban",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "189",
+        "height": "262",
+        "builtIn": "false"
+      },
+      {
+        "name": "5 Kiku",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "151",
+        "height": "227",
+        "builtIn": "false"
+      },
+      {
+        "name": "6",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "128",
+        "height": "182",
+        "builtIn": "false"
+      },
+      {
+        "name": "6 Shiroku ban",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "127",
+        "height": "188",
+        "builtIn": "false"
+      },
+      {
+        "name": "7",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "91",
+        "height": "128",
+        "builtIn": "false"
+      },
+      {
+        "name": "8",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "64",
+        "height": "91",
+        "builtIn": "false"
+      },
+      {
+        "name": "9",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "45",
+        "height": "64",
+        "builtIn": "false"
+      },
+      {
+        "name": "10",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "32",
+        "height": "45",
+        "builtIn": "false"
+      },
+      {
+        "name": "11",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "22",
+        "height": "32",
+        "builtIn": "false"
+      },
+      {
+        "name": "12",
+        "category": "JIS",
+        "drawingSizeType": "3",
+        "visUnitCode": "visMillimeters",
+        "units": "mm",
+        "width": "16",
+        "height": "22",
+        "builtIn": "false"
+      }
+    ]
+  }
+}
